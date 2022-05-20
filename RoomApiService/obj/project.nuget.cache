@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NOtDVNraQCQ0D+k3PaJp9q6231wRcGiCOTM2ViuPtH/9kxiXaJpQ1rYQjWCg13e9bAJFY/1+Q8q+ksXMSDsYdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gupta\\Downloads\\RoomApiService-main\\RoomApiService-main\\RoomApiService\\RoomApiService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
